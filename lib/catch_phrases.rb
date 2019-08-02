@@ -9,9 +9,6 @@ def toadstool
   puts status
 end
 
-define the method `link` that
-will output the phrase "It's Dangerous To Go Alone! Take This."
-
 def link
   puts "It's Dangerous To Go Alone! Take This."
 end
